@@ -327,7 +327,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.bmiCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = co.chitraarasu.bmiCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
